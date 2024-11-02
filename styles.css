@@ -1,0 +1,89 @@
+/* تغيير خلفية الشات بوت */
+.voiceflow-chat {
+    background-color: #0D3B66 !important; /* لون خلفية الشات */
+}
+
+/* لون خلفية launcher */
+.vfrc-launcher {
+    background-color: #0D3B66 !important; /* نفس لون الخلفية للشات */
+}
+
+/* رأس الشات */
+.vfrc-header {
+    background-color: #3D5A80 !important; /* لون مختلف لرأس الشات */
+    color: #ffffff !important; /* لون النص أبيض */
+}
+
+/* عنوان الرأس */
+.vfrc-header--title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* معلومات المساعد */
+.vfrc-assistant-info {
+    color: #ffffff !important; /* لون نص معلومات المساعد */
+}
+
+/* محتوى الرسائل - للذكاء الاصطناعي */
+.vfrc-system-response .vfrc-message {
+    background-color: #98C1D9 !important; /* لون خلفية رسائل الذكاء الاصطناعي */
+    color: #0D3B66 !important; /* لون نص الرسائل */
+}
+
+/* محتوى الرسائل - للمستخدم */
+.vfrc-user-response .vfrc-message {
+    background-color: #ffffff !important; /* لون خلفية رسائل المستخدم */
+    color: #000000 !important; /* لون نص الرسائل */
+}
+
+/* أزرار الرسائل */
+.vfrc-button {
+    background-color: #3D5A80 !important; /* لون أزرار الرسائل */
+    color: #ffffff !important; /* لون نص الأزرار */
+}
+
+/* محتوى البطاقة */
+.vfrc-card--content {
+    background-color: #ffffff !important; /* لون خلفية محتوى البطاقة */
+}
+
+/* رأس البطاقة */
+.vfrc-card--header {
+    background-color: #3D5A80 !important; /* لون خلفية رأس البطاقة */
+    color: #ffffff !important; /* لون نص الرأس */
+}
+
+/* وصف البطاقة */
+.vfrc-card--description {
+    color: #000000 !important; /* لون نص الوصف */
+}
+
+/* زر في البطاقة */
+.vfrc-card--content .vfrc-button {
+    background-color: #98C1D9 !important; /* لون الأزرار في البطاقة */
+    color: #0D3B66 !important; /* لون نص الأزرار في البطاقة */
+}
+
+/* أزرار الكاروسيل */
+.vfrc-carousel--button {
+    background-color: #3D5A80 !important; /* لون أزرار الكاروسيل */
+    color: #ffffff !important; /* لون نص الأزرار */
+}
+
+/* زر إنهاء الدردشة */
+.vfrc-prompt .vfrc-button {
+    background-color: #BF1363 !important; /* لون زر إنهاء الدردشة */
+    color: #ffffff !important; /* لون نص الزر */
+}
+
+/* تذييل الشات */
+.vf-footer {
+    background-color: #0D3B66 !important; /* لون خلفية التذييل */
+    color: #ffffff !important; /* لون نص التذييل */
+}
+
+/* حقل الإدخال */
+.vfrc-input {
+    border: 1px solid #3D5A80 !important; /* لون الحدود لحقل الإدخال */
+}
